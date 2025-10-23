@@ -1,0 +1,2 @@
+# Absen-guru
+Project sederhana 
